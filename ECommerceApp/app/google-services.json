@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793148846397",
+    "project_id": "ecommerce-b8b35",
+    "storage_bucket": "ecommerce-b8b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793148846397:android:f0fa482e875efe47859554",
+        "android_client_info": {
+          "package_name": "com.volkanunlu.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793148846397-mp8h2pb7qpd5n87hdj30bjcre6utl756.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-erbgwaHACK2gcPU0wE556MhRbVFTdN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793148846397-mp8h2pb7qpd5n87hdj30bjcre6utl756.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

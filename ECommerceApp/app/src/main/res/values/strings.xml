@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <string name="first_screen">Tek Tıkla Alışveriş</string>
+    <string name="second_screen">Hızlı Kargo</string>
+    <string name="third_screen">Kaliteli Hizmet</string>
+
+    <string name="content">Hoşgeldin! ShopTech her zaman her yerde yanında.Kaliteli hizmet,hızlı çözüm ağımızla istediğin tüm ürünler artık cebinde,seninle.
+    Hadi alışveriş yapalım!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

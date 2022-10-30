@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_favourite_cart"
+        android:title="Sepetim"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_log_out"
+        android:title="Çıkış Yap"
+        android:icon="@drawable/ic_baseline_logout_24"
+        app:showAsAction="always">
+    </item>
+
+
+</menu>
